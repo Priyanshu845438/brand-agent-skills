@@ -1,3 +1,5 @@
+> **Fork notice:** This is [Priyanshu Raj’s fork](https://github.com/Priyanshu845438/brand-agent-skills) of [cofoundy/brand-skills](https://github.com/cofoundy/brand-skills). Original authorship and official project releases belong to the upstream project. [More public projects](https://github.com/Priyanshu845438/Priyanshu845438/blob/main/PUBLIC-REPOSITORIES.md) · [Priyanshu’s profile](https://github.com/Priyanshu845438).
+
 <p align="center">
   <img src="./assets/logo.png" alt="brand skills" width="460" />
 </p>
